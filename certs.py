@@ -8,13 +8,6 @@ svgbase = "cert"
 original = open(svgbase+".svg").read()
 diretorio = "certificados"
 
-#Função geradora de QRCode
-#def geraQRCode():
-##link exemplo para geração de qrcode de uma url (http://polignu.org/component/content/article/82-latex/138-20111semnivel1)
-#http://chart.apis.google.com/chart?cht=qr&chs=120x120&chl=http%3A%2F%2Fhttp%3A%2F%2Fpolignu.org%2Fcomponent%2Fcontent%2Farticle%2F82-latex%2F138-20111semnivel1
-    #link = raw_input('Qual o Link')
-    #link_encoded = urllib.urlencode(link)
-
 def geraPDF(arquivo):
     print "    gerando certificado em pdf"
     #gerando o PNG baseado no SVG
@@ -57,4 +50,4 @@ def geraCertificados():
             print ""
 
 geraCertificados()
-#geraQRCode()
+
