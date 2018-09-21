@@ -13,7 +13,7 @@ Alterar o SVG modelo
 
 Alterar a lista de Nomes
 
-**Executar o Script:
+**Executar o Script:**
 ```
 python certs.py
 ```
