@@ -3,7 +3,7 @@ Aplicação em Python para geração automática de certificados
 # Como usar:
 **Download da Última Versão**
 ```
-git clone git clone https://github.com/phvilasboas/Generator_Certs.git 
+git clone https://github.com/phvilasboas/Generator_Certs.git 
 ```
 **Mudar para o diretório da ferramenta**
 ```
