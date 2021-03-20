@@ -17,3 +17,6 @@ Alterar a lista de Nomes
 ```
 python certs.py
 ```
+```
+OBS: Necessário a fonte URW Chancery L
+```
